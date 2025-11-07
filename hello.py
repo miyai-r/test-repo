@@ -3,6 +3,8 @@
 
 def main():
     print("Hello, GitHub実務練習！")
+    print("この行はGitHub上で編集しました。")
+
     greet_user("涼子")
 
 def greet_user(name):
