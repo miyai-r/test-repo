@@ -11,4 +11,5 @@ def greet_user(name):
 if __name__ == "__main__":
     main()
 
+print("開発ブランチでのテスト中...")
 
